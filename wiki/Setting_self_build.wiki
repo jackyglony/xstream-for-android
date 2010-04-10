@@ -1,5 +1,5 @@
 = 概要 =
-Eclipseを使用したxstream-for-androidプロジェクトの設定方法
+xstream-for-androidのソースを改変する場合など、Eclipseを使用したxstream-for-androidプロジェクトの設定方法
 
 = プロジェクトの設定 =
  # trunk/xstreamをJavaProjectとしてチェックアウト後、src/java, src/testをそれぞれソースプロジェクトとして設定
