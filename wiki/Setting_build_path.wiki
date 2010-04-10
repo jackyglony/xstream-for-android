@@ -1,0 +1,1 @@
+xstream-for-android-[[version]].zipを解凍後、フォルダ内にあるjarをビルドパスに追加してください。
